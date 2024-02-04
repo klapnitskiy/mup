@@ -1,5 +1,3 @@
-require("dotenv").config();
-
 $(document).ready(function () {
   // --------------SCROLL-------------------
   $('a[href="#"]').on("touchend, click", function (e) {
