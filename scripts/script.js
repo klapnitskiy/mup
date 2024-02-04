@@ -133,7 +133,7 @@ async function sendData() {
 
   try {
     const response = await fetch(
-      `https://webhook.site/${process.env.WEBHOOK_API}`,
+      `https://webhook.site/c45e738a-2d08-4b77-8b43-c59aec47c8cd`,
       {
         method: "POST",
         mode: "no-cors",
