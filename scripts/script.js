@@ -118,8 +118,6 @@ function render(arr) {
   });
 }
 
-("https://webhook.site/c45e738a-2d08-4b77-8b43-c59aec47c8cd");
-
 async function sendData() {
   // Construct a FormData instance
   const formData = new FormData();
